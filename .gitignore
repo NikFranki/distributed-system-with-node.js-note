@@ -1,0 +1,24 @@
+# npm packages
+**/node_modules
+
+# Temp file
+/index.html
+
+# NYC Code Coverage
+coverage/
+
+# Sample binary files
+*.bin
+
+# TLS Files
+*.key
+*.cert
+*.pem
+*.csr
+*.srl
+
+# DS_Store
+.DS_Store
+
+# .vscode
+.vscode/*
